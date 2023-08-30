@@ -1,0 +1,13 @@
+
+# Site settings
+title: Heart Disease Prediction and Analysis
+description: A comprehensive analysis of heart disease using machine learning algorithms.
+baseurl: "" # the subpath of your site, e.g. /blog
+
+# Build settings
+markdown: kramdown
+theme: minima
+
+# Photos (Placeholder)
+header_image: "/path/to/header/image.jpg"
+profile_image: "/path/to/profile/image.jpg"
